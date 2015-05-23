@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>92</LINE></init>
+  <plusButtonInterrupt><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>73</LINE></plusButtonInterrupt>
+  <minusButtonInterrupt><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>80</LINE></minusButtonInterrupt>
+  <resetButtonInterrupt><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>87</LINE></resetButtonInterrupt>
+  <donePlusOperation><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>78</LINE></donePlusOperation>
+  <doneMinusOperation><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>85</LINE></doneMinusOperation>
+  <doneResetOperation><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>90</LINE></doneResetOperation>
+  <main><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>117</LINE></main>
+  <counterEvent><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>122</LINE></counterEvent>
+  <correctSubstraction><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab3\sourceCodes\lab34.asm</FILE><LINE>131</LINE></correctSubstraction>
+ </LABELS>
+</ASSEMBLER_INFO>

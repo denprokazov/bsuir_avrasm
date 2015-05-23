@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <array><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>11</LINE></array>
+  <init><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>13</LINE></init>
+  <load><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>20</LINE></load>
+  <main><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>23</LINE></main>
+  <nextElement><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>30</LINE></nextElement>
+  <setT><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>36</LINE></setT>
+  <incrementIfOverflow><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>38</LINE></incrementIfOverflow>
+  <finalResult><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>42</LINE></finalResult>
+  <incrementHighByte><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>46</LINE></incrementHighByte>
+  <end><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab2\lab2_4.asm</FILE><LINE>50</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
