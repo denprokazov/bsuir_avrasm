@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab4.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>112</LINE></init>
+  <handleTimer><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>102</LINE></handleTimer>
+  <OFF><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>75</LINE></OFF>
+  <initHalfSecondDelay><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>84</LINE></initHalfSecondDelay>
+  <endHandleTimer><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>105</LINE></endHandleTimer>
+  <ON><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>89</LINE></ON>
+  <initOneSecondDelay><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>93</LINE></initOneSecondDelay>
+  <timerHandlerResult><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>107</LINE></timerHandlerResult>
+  <mainLoop><FILE>E:\BSUIR\3kurs\2sem\MPSU\labs\lab4\lab42.asm</FILE><LINE>140</LINE></mainLoop>
+ </LABELS>
+</ASSEMBLER_INFO>
